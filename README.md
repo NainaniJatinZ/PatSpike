@@ -1,2 +1,3 @@
 # PatSpike
-Exploring energy efficient Spiking neural networks for time series classification of ECG data
+
+Classification of patterns in ECG with energy efficient Spiking Neural Network Models
